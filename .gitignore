@@ -1,0 +1,30 @@
+.env
+node_modules
+
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build outputs
+*.test
+*.out
+
+# Go build cache and intermediate files
+*.log
+*.tmp
+
+# Dependency directories (Go modules)
+vendor/
+
+# IDE/editor specific
+.idea/
+.vscode/
+*.swp
+
+# OS specific
+.DS_Store
+Thumbs.db
